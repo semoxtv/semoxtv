@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @semoxtv
+- 👀 I’m interested in programing and automation 
+- 🌱 I’m currently learning python
+- 📫 Reach me on Twitter at @1s3mo
